@@ -1,6 +1,7 @@
 package main;
 public class App {
     public static int encontre(int[] arrayOrdenado, int num){
+        int a = 0;
         return -1;
     }
 
